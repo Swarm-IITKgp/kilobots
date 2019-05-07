@@ -9,3 +9,4 @@ Kilobot hardware and software [details](https://projects.iq.harvard.edu/files/ss
 [Here You can Download V-Rep Which is an simulator for kilobots.](http://www.coppeliarobotics.com/downloads.html)
 After Downloading and Extraction.You can simply run any .ttt file by writing in the terminal ./vrep.sh file location. 
 For Example :: ./vrep.sh tutorials/Kilobots_around.ttt
+[This provides details about all the different functions and data structures present in kilolib library](https://www.kilobotics.com/docs/index.html)
