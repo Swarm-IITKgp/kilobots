@@ -21,3 +21,11 @@ After Downloading, execute any .ttt file in terminal like this:
 `./vrep.sh Kilobots_around.ttt`
 
 [This](https://www.kilobotics.com/docs/index.html) provides details about all the different functions and data structures present in kilolib library.
+
+Some common tips while using V-Rep Simulator for Kilobots:
+
+1 :- The script is in Lua Language so while using it. Refer to [This](https://www.lua.org/docs.html) Lua documentation.
+
+2 :- Before running you have to ensure that you have the models of controller and kilobots i.e. their .ttm files.
+
+3 :- After editing the script, you have to ensure that you have clicked the Download like button on the top left most area which ensure that your changes have been added to the scene. 
